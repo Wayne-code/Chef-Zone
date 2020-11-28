@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294324564748",
+    "firebase_url": "https://chefcode-e0316.firebaseio.com",
+    "project_id": "chefcode-e0316",
+    "storage_bucket": "chefcode-e0316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294324564748:android:41e4511ecdc88f1c004f29",
+        "android_client_info": {
+          "package_name": "com.example.ChefZone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294324564748-kkpcs2v7k0l53b3n31h6t184ksq7jvsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFxpKYjpMew6iSAARoMfLdnlwe_wX9_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294324564748-kkpcs2v7k0l53b3n31h6t184ksq7jvsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
